@@ -1,15 +1,11 @@
-<!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi&type=transparent&animation=fadeIn&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?text=안녕하세요&desc=김예은입니다&type=transparent&animation=fadeIn&fontColor=ffffff&descAlignY=80&height=250&theme=graywhite" alt="header"/>
 </div>
-
-<br>
-<br>
 <br>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyeennyy&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yyeennyy&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats"/>
 </div>
 
 <h3 align="center">Good at</h3>
@@ -46,9 +42,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="Cent OS">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
 </div>
 
 <h3 align="center">Comming Soon</h3>
@@ -63,7 +58,7 @@
 
 
 <h3 align="center">Contact Me</h3>
-<div align="center">
+<div align="center" style="text-decoration: none; color: inherit;">
   <a href="https://splendidlolli.tistory.com">
     <img src="https://img.shields.io/badge/tistory-ffffff.svg?style=for-the-badge&logo=tistory&logoColor=000000" alt="Tistory"/>
   </a>
