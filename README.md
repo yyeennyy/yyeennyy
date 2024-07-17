@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=안녕하세요&desc=김예은입니다&type=transparent&animation=fadeIn&fontColor=ffffff&descAlignY=80&height=250&theme=graywhite" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?text=안녕하세요&desc=김예은입니다&type=transparent&animation=fadeIn&fontColor=DCDCDC&descAlignY=80&height=250" alt="header"/>
 </div>
 <br>
 
