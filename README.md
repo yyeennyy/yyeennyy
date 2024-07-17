@@ -1,42 +1,45 @@
 <!--타이틀 부분-->
 <div align="center">
-  타이틀 준비중!
-  & 프로필 작성중!
+  <img src="https://capsule-render.vercel.app/api?text=Hi&type=transparent&animation=fadeIn&fontColor=ffffff" alt="header"/>
 </div>
 
-<h3 align="center">📌 Web</h3>
+<br>
+<br>
+<br>
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyeennyy&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
 </div>
+
+<h3 align="center">Good at</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
+  <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
-  
 </div>
 <br>
-
-<h3 align="center">📌 Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-
-<h3 align="center">📌 DevOps and OS </h3>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
   <img src="https://img.shields.io/badge/NCP-008000.svg?style=for-the-badge&logo=naver&logoColor=ffffff" alt="NCP">
 </div>
 <div align="center">
@@ -48,7 +51,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </div>
 
-<h3 align="center">📌 Soon</h3>
+<h3 align="center">Comming Soon</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka">
@@ -59,7 +62,7 @@
 
 
 
-<h3 align="center">🥰 Contact</h3>
+<h3 align="center">Contact Me</h3>
 <div align="center">
   <a href="https://splendidlolli.tistory.com">
     <img src="https://img.shields.io/badge/tistory-ffffff.svg?style=for-the-badge&logo=tistory&logoColor=000000" alt="Tistory"/>
