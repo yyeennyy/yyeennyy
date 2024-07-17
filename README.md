@@ -61,7 +61,7 @@
 
 <h3 align="center">🥰 Contact</h3>
 <div align="center">
-  <a href="http://spliendidlolli.tistory.com">
+  <a href="https://splendidlolli.tistory.com">
     <img src="https://img.shields.io/badge/tistory-ffffff.svg?style=for-the-badge&logo=tistory&logoColor=000000" alt="Tistory"/>
   </a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
