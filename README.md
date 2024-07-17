@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-<h3 align="center">📌 DebOps and OS </h3>
+<h3 align="center">📌 DevOps and OS </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
